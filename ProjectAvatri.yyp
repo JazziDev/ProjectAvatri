@@ -29,12 +29,14 @@
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
-  "MetaData": {},
+  "MetaData": {
+    "IDEVersion": "2023.8.2.108",
+  },
   "resources": [
-    {"id":{"name":"room0","path":"rooms/room0/room0.yy",},},
+    {"id":{"name":"rm_testhouse","path":"rooms/rm_testhouse/rm_testhouse.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"room0","path":"rooms/room0/room0.yy",},},
+    {"roomId":{"name":"rm_testhouse","path":"rooms/rm_testhouse/rm_testhouse.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
