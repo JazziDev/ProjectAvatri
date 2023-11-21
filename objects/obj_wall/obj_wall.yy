@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "blocks",
+    "path": "folders/OBJECTS/blocks.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,6 +29,9 @@
     "name": "spr_wall",
     "path": "sprites/spr_wall/spr_wall.yy",
   },
-  "spriteMaskId": null,
-  "visible": true,
+  "spriteMaskId": {
+    "name": "spr_wall",
+    "path": "sprites/spr_wall/spr_wall.yy",
+  },
+  "visible": false,
 }
