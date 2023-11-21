@@ -26,7 +26,7 @@ option[2, 4] = "mouse = for inventory/dialogue";
 option[2, 5] = "lmb = interact | rmb = bin";
 
 option[3, 0] = "Back";
-option[3, 1] = "Developer: Jazzi"
+option[3, 1] = "Developer: GrimcloakStudios"
 option[3, 2] = "v0.01a"
 
 
